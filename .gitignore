@@ -27,3 +27,7 @@ __pycache__/
 
 # Logs
 *.log
+
+# IDEs
+.idea/
+.vscode/
