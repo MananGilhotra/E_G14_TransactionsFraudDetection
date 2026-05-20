@@ -6,4 +6,4 @@ plotly
 jupyter
 notebook
 python-dateutil
-
+scikit-learn
